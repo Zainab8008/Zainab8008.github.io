@@ -1,5 +1,50 @@
 # My Profile
 <html>
+   <head>
+     <style>
+        h1 { color: #39ff14; 
+        }
+                </style>
+     <style>
+                      body {
+                      background-color: #000000;
+                      }
+                </style>
+     <style>
+        h1 {
+        text-align:center
+        }
+                </style>
+     <style> 
+                      h2 { color: #39ff14;
+                      }
+                </style>
+     <style> 
+                      h3 { color: #39ff14;
+                      }
+                </style>
+     <style> 
+        h3 { color: red;
+        }
+                </style>
+     <style> 
+                      p { color: white;
+                      }
+                </style>
+     <style> 
+        p1 { color: #ffffd5;
+        }
+                </style>
+     <style> 
+                      p2 { color: red;
+                      }
+                      </style>
+         <style>
+        h3 {
+        text-align:center
+        }
+                </style>
+</head>
 <header>
    <section id="background"> 
     <header class="sectionHeading">
