@@ -11,12 +11,12 @@
                       }
                 </style>
      <style>
-        h1 {
+        h3 {
         text-align:center
         }
                 </style>
      <style> 
-                      h2 { color: #39ff14;
+                      h2 { color: green;
                       }
                 </style>
      <style> 
@@ -24,7 +24,7 @@
                       }
                 </style>
      <style> 
-        h3 { color: greem;
+        h3 { color: green;
         }
                 </style>
      <style> 
@@ -39,17 +39,13 @@
                       p2 { color: red;
                       }
                       </style>
-         <style>
-        h4 {
-        text-align:center
-        }
-                </style>
+       
 </head>
    
 <header>
    <section id="background"> 
     <header class="sectionHeading">
-   <h3>   <a href="https://zainab8008.github.io/My-Profile-Zainab/ ">Ideal Job</a> </h3>
+   <h2>   <a href="https://zainab8008.github.io/My-Profile-Zainab/ ">Ideal Job</a> </h2>
 </header>
 
    <center>
