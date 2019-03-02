@@ -45,7 +45,7 @@
 <header>
    <section id="background"> 
     <header class="sectionHeading">
-   <h2>   <a href="https://zainab8008.github.io/My-Profile-Zainab/ ">Ideal Job</a> </h2>
+   <h2>  Ideal Job </h2>
 </header>
 
    <center>
