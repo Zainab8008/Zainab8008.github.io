@@ -20,11 +20,11 @@
                       }
                 </style>
      <style> 
-                      h3 { color: #39ff14;
+                      h4 { color: red;
                       }
                 </style>
      <style> 
-        h3 { color: red;
+        h3 { color: greem;
         }
                 </style>
      <style> 
@@ -40,7 +40,7 @@
                       }
                       </style>
          <style>
-        h3 {
+        h4 {
         text-align:center
         }
                 </style>
@@ -49,7 +49,7 @@
 <header>
    <section id="background"> 
     <header class="sectionHeading">
-   <h2>   <a href="https://zainab8008.github.io/My-Profile-Zainab/ ">Ideal Job</a> </h2>
+   <h3>   <a href="https://zainab8008.github.io/My-Profile-Zainab/ ">Ideal Job</a> </h3>
 </header>
 
    <center>
@@ -62,16 +62,16 @@
                <img src="http://i66.tinypic.com/20igxv4.png" alt="" height="auto">
     </center>
 
- <h3> The Position? </h3>
+ <h4> The Position? </h4>
         <p1> dundundunnnnnnnnnnnnn </p1>
 
- <h3> The Skills, Qualifications and Experiance Required? </h3>
+ <h4> The Skills, Qualifications and Experiance Required? </h4>
         <p1> dundundunnnnnnnnnnnnn </p1>
 
- <h3> The Skills, Qualifications and Experiance I Have? </h3>
+ <h4> The Skills, Qualifications and Experiance I Have? </h4>
         <p1> dundundunnnnnnnnnnnnn </p1>
 
- <h3> The Plan? </h3>
+ <h4> The Plan? </h4>
         <p1> dundundunnnnnnnnnnnnn yup </p1>
         
 <html/>
