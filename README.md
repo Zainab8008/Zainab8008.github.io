@@ -66,7 +66,5 @@
 <p1> <br> In order to develop this application, I will need many qualifications in different areas so that the program could run accordingly. The programing language ‘Python’ is a priority and highly required so that the standards are met. Skills in areas such as Web frameworks, Object-relational mappers, understanding multi-process architecture, Developing and using RESTful APIs and building Python applications will assist in having the software developed in a modern and easy to use way.  By having these, a program will need to be written by the rules to meet guidelines. With the experience I currently have and the level of knowledge I possess, developing such software will not be likely as I still need more skills to back me up for the process, however with hard work and determination, a goal will always be reached.<br>  <p1/>
      <p1><br>If this project reaches success, the outcome will be stretched across the globe providing help and assistance to all hospitals in order to aid their patients with not just a simple application, but also a friend. We will not have any lost people that are too afraid or shy to ask for help but people who will be able to go on with their day to day lives. This will solve the problem of not one or two but millions. A big impact will be placed on all health organizations worldwide as less people worried will result in more people smiling.  <br>  <p1/>
 
-
-<body background="http://i64.tinypic.com/r2ngk5.png" >
         </body>
 <html/>
